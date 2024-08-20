@@ -33,3 +33,4 @@ export function Avatar({ teacherInfo, userInfo }) {
     </div>
   );
 }
+//
